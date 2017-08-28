@@ -7,7 +7,7 @@ $(function($) {
         'z-index: 9999;border: 3px solid #1094fa;">' +
         '<span class="delete-imagesList-item-icon" style="background-image: url(images/icons.png);background-position: -41px -17px;' +
         'background-repeat: no-repeat;width: 32px;height: 32px;' +
-        ' background-color: rgba(16, 148, 250, 0.3);display: inline-block;"></span>' +
+        ' background-color: rgba(0, 0, 0, 0.5);display: inline-block;"></span>' +
         '</div>';
     //显示确认层的html
     var confirmHtml =
